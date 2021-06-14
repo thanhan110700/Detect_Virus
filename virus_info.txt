@@ -1,0 +1,4 @@
+Trojan.system
+Ransomware.encrypt
+Trojan.systemInfo
+Trojan.systemDestroy
